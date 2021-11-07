@@ -9,7 +9,7 @@ module.exports = {
 
     // Paths
     assetsSubDirectory: 'static',
-    assetsPublicPath: '/vue-todolist/',
+    assetsPublicPath: './my-todos',
     proxyTable: {},
 
     // Various Dev Server settings
